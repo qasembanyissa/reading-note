@@ -34,3 +34,12 @@ where no other element is suitable
 <meta> element
 ●● Adding characters such as angled brackets and copyright
 symbols
+## may can use div to layout
+*example*
+~
+<div id="page">
+<div id="header">
+<div id="content">
+<div id="footer">
+~
+## we can use Header and footer and article , section and so 
