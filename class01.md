@@ -43,3 +43,5 @@ symbols
 <div id="footer">
 ~
 ## we can use Header and footer and article , section and so 
+## you must have a map in your website , thin pepole can visit your  website
+*may can git a message to user to help him 
