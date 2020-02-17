@@ -56,9 +56,7 @@
 
 ### to best work we should use <style>
 
-*You can also include CSS ruleswithin an HTML page by placing
-them inside a <style> element, which usually sits inside the
-<head> element of the page. The <style> element should use the type attribute to indicate that the styles are specified in CSS. The value*
+
 
 ## some point important about css
 1. CSS treats each HTML e XX lement as if it appears inside its own box and uses rules to indicate how that element should look.
