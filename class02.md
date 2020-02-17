@@ -54,6 +54,10 @@
 ##### background-color: rgb(185,179,175);}
 ##### h1 { color: rgb(255,255,255);}
 
+#### *You can also include CSS ruleswithin an HTML page by placing
+#### them inside a <style> element, which usually sits inside the
+#### <head> element of the page. The <style> element should use the
+
 ### to best work we should use <style>
 
 
