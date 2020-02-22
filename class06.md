@@ -65,21 +65,21 @@ elRooms .textContent = hotel .checkAvailability();
 ## BODY OF HTML PAGE
 ## ex
 ~
-<html>
-<body>
-<di v id="page">
-<hl id="header">List</hl>
-<h2>Buy groceries</h2>
-<ul>
-<li id="one" class="hot"><em>fresh</em> figs</li>
-<li id="two" class="hot">pine nuts</l i>
-<l i id="three" class="hot">honey</l i>
-<l i id="four">balsamic vinegar</l i>
-</ ul>
-<script src="js/l i st. js "></scri pt>
-</ div>
-</ body>
-</ html>
+### <html>
+### <body>
+### <di v id="page">
+### <hl id="header">List</hl>
+### <h2>Buy groceries</h2>
+### <ul>
+### <li id="one" class="hot"><em>fresh</em> figs</li>
+### <li id="two" class="hot">pine nuts</l i>
+### <l i id="three" class="hot">honey</l i>
+### <l i id="four">balsamic vinegar</l i>
+### </ ul>
+### <script src="js/l i st. js "></scri pt>
+### </ div>
+### </ body>
+### </ html>
 ~
 
 ## the have a dom tree , see table on 187

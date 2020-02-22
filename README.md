@@ -11,3 +11,5 @@ class03 | [github read03](https://qasembanyissa.github.io/reading-note/class03)
 class04 | [github read04](https://qasembanyissa.github.io/reading-note/class04)
 
 class05 | [github read05](https://qasembanyissa.github.io/reading-note/class05)
+
+class06 | [github read06](https://qasembanyissa.github.io/reading-note/class06)
