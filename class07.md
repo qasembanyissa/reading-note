@@ -55,33 +55,33 @@ specialRate .textContent = '$' +hotel .offerPrice(); // Write offer pri ce
 ### There are several types of information that need to be displayed in a grid or table. For example: sports results, stock reports, train timetables.
 ## all of this method to creat a table
 ~ 
-<table>
-The <table> element is used
-to create a table. The contents
-of the table are written out row
-by row.
-<tr>
-You indicate the start of each
-row using the opening <tr> tag.
-(The tr stands for table row.)
-It is followed by one or more
-<td> elements (one for each cell
-in that row).
-At the end of the row you use a
-closing </tr> tag.
-<td>
-Each cell of a table is
-represented using a <td>
-element. (The td stands for
-table data.)
-At the end of each cell you use a
-closing </td> tag.
-Some browsers automatically
-draw lines around the table
-and/or the individual cells. You
-will learn how to control the
-borders of tables using CSS on
-pages 309-312 and 337-340.
+#### <table>
+#### The <table> element is used
+#### to create a table. The contents
+#### of the table are written out row
+#### by row.
+#### <tr>
+#### You indicate the start of each
+#### row using the opening <tr> tag.
+#### (The tr stands for table row.)
+#### It is followed by one or more
+#### <td> elements (one for each cell
+#### in that row).
+#### At the end of the row you use a
+#### closing </tr> tag.
+#### <td>
+#### Each cell of a table is
+#### represented using a <td>
+#### element. (The td stands for
+#### table data.)
+#### At the end of each cell you use a
+#### closing </td> tag.
+#### Some browsers automatically
+#### draw lines around the table
+#### and/or the individual cells. You
+#### will learn how to control the
+#### borders of tables using CSS on
+#### pages 309-312 and 337-340.
 ~
 
 ## Ex 
