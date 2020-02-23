@@ -20,7 +20,10 @@
 
 ## what is objects
 
+
 ### Objects group together a set of variables and functions to create a model of a something you would recognize from the real world. In an object, variables and functions take on new names.
+## we must have a tree and DOC
+## DOC : document object model 
 
 ## IN AN OBJECT: VARIABLES BECOME KNOWN AS PROPERTIES
 ## IN AN OBJECT: FUNCTIONS BECOME KNOWN AS METHODS
@@ -91,3 +94,8 @@ elRooms .textContent = hotel .checkAvailability();
 5. querySelectorAll ( 'css select')
 
 ## so we have a tree to use in looping , in tag like select one id or more or one class and so we can use to connect pages togther , we have a lot of information in this lucture , you can see it and do it .
+## so DOC tree have four types of node : 
+1. document nodes
+2. element nodes
+3. attribute nodes
+4. text nodes
