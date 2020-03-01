@@ -6,7 +6,7 @@
 ### The <canvas> element creates a fixed-size drawing surface that exposes one or more rendering contexts, which are used to create and manipulate the content shown. In this tutorial, we focus on the 2D rendering context. Other contexts may provide different types of rendering; for example, WebGL uses a 3D context based on OpenGL ES.
 
 ## EX
-~
+#### ~
 #### <!DOCTYPE html>
 #### <html>
 ####   <head>
