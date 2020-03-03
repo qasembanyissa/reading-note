@@ -28,3 +28,5 @@ class12 | [gitHub read12](https://qasembanyissa.github.io/reading-note/class12)
 
 class13 | [gitHub read13](https://qasembanyissa.github.io/reading-note/class13)
 
+class14 | [gitHub read14](https://qasembanyissa.github.io/reading-note/class14)
+
